@@ -9,7 +9,6 @@
   <img src="https://github.com/Blue-Hat-Games/.github/blob/main/src/img/explain/Untitled_page-0006.jpg?raw=true"/>
    <img src="https://github.com/Blue-Hat-Games/.github/blob/main/src/img/explain/Untitled_page-0007.jpg?raw=true"/>
   <img src="https://github.com/Blue-Hat-Games/.github/blob/main/src/img/explain/Untitled_page-0008.jpg?raw=true"/>
-  <img src="https://github.com/Blue-Hat-Games/.github/blob/main/src/img/explain/Untitled_page-0009.jpg?raw=true"/>
   </p>
   </p>
 </div>
